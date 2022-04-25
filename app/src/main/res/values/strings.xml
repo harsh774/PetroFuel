@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">PetroFuel</string>
+    <string name="petrol_price">Petrol Price</string>
 </resources>
